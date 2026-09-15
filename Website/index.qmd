@@ -1,0 +1,36 @@
+---
+title: "Dante Franco"
+---
+
+![](images/CREDENCIAL.png){width=200px}
+I am a graduate student in Economics at UTEP, studying Economics.
+## CV
+[**Download full CV (PDF)**](files/DanteFrancoBuend%C3%ADa_CV_2025.pdf)
+**Education**
+- M.S. Economics, The University of Texas at El Paso (expected 2026)
+- B.A. Economics, Universidad Autonoma de Ciudad Juárez (2025)
+
+**Experience**
+- [Role], [Organization], [Dates]
+## Research interests
+My research interests center on [topic area], particularly
+[specific question or method].
+## Skills
+- Python (pandas, statsmodels)
+- R / Stata
+- Time series forecasting
+## Contact
+**Email:** your_email@miners.utep.edu
+**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname) ·
+**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+title: "Research Project"
+---
+## Overview
+I am developing a time series forecasting project on
+[working topic], as part of ECON-5371. A full description,
+methodology, and results will be posted here as the project
+develops.
+## Status
+*Proposal stage — details forthcoming.*
